@@ -1,0 +1,136 @@
+body{
+    background-color: #eeeeee;
+    font-family: sans-serif;
+}
+#top-line{
+    background-color: #9900ff;
+    height: 0.3rem;
+}
+span{
+    color: #9900ff;
+}
+
+#nav-logo{
+    display: flex;
+    font-weight: bold;
+    font-size: 30px;
+}
+.navbar-options{
+    display: flex;
+}
+
+#navbarSupportedContent{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#money{
+    height: 30px;
+    margin: auto;
+}
+#cart{
+    height: 50px;
+}
+
+#counter{
+    color: #fff;
+    font-size: 15px;
+    text-decoration: underline;
+    margin: auto;
+}
+
+#search{
+    height: 50px;
+    margin: auto;
+}
+
+.container{
+    width: 1000px;
+    margin: auto;
+    padding: 0%;
+}
+#carouselExampleDark{
+    width: 1000px;
+    margin: auto;
+}
+.d-block{
+    width: 700px;
+    margin: auto;
+}
+.row{
+    width: auto;
+    margin: auto;
+    padding: 0%;
+    justify-content: space-around;
+}
+
+.col-4{
+    width: 300px;
+    display: flex;
+    padding:10px
+}
+.card{
+    width: 200px;
+}
+.carousel-inner{
+    width: 1000px;
+    padding-bottom: 50px;
+}
+.text-top{
+    margin: auto;
+    font-weight: bold;
+}
+.carousel-control-next{
+    color: #9900ff;
+}
+.card-img-top{
+    width: auto;
+}
+.icon{
+    height: 20px;
+    width: 20px;
+}
+#btn-dscto{
+    background-color: #9900ff;
+    height: 40px;
+    width: 50px;
+    padding: 0px;
+    color: #fff;
+    
+}
+.card-bot{
+    margin-top: 10px;
+    justify-content: space-around;
+}
+.prices{
+    
+    display: block;
+    padding: 0px;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+}
+.price-past{
+    height: 20px;
+    font-size: 13px;
+    text-decoration: line-through;
+    padding: 0%;
+    text-align: center;
+    margin: 0;
+    color: #7c7c7c;
+}
+.price-actually{
+    height: 20px;
+    font-size: 15px;
+    padding: 0%;
+    text-align: center;
+    margin: 0;
+}
+#btn-buy{
+    background-color: #6aa84f;
+    height: 40px;
+    width: 50px;
+    padding: 0px;
+    color: #fff;
+}
